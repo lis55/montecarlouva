@@ -25,6 +25,7 @@ extern double Epsilon;   // Epsilon
 extern double Sigma;     // Sigma*Sigma
 extern double Mass;      // Mass Of The Molecules
 extern double CutOff;    // Cut-Off Radius Of The Potenial
+extern double lambda;    // lambda
 
 extern double TotalEnergy;
 extern double TotalVirial;
