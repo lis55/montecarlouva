@@ -17,6 +17,7 @@ double Epsilon;   // Epsilon
 double Sigma;     // Sigma
 double Mass;      // Mass Of The Molecules
 double CutOff;    // Cut-Off Radius Of The Potenial
+double lambda;	  // We add lambda for the modified L-J potential
 
 int NumberOfAttempts;
 int NumberOfAcceptedMoves;
